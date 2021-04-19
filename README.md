@@ -1,16 +1,19 @@
-### Hi there 👋
+![banner][my-abstract]
 
-<!--
-**eswat42/eswat42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Richard Hess
 
-Here are some ideas to get you started:
+Experienced software developer with a passion for creating User Interfaces (_Atomic Design, Stencil, Svelte, Vue, React, GraphQL_). I am currently working as a **Portfolio Technical Architect** for UI/UX, exploring Micro Frontend architectures & technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [My Github Page][my-github] **
+
+my npx business card:
+
+```
+npx eswat42
+```
+
+[![npm version](https://badge.fury.io/js/eswat42.svg)](//npmjs.com/package/eswat42)
+
+[my-github]: https://eswat2.github.io
+[my-abstract]: https://eswat2.github.io/images/Vehicles-McLaren-l.jpg
+
